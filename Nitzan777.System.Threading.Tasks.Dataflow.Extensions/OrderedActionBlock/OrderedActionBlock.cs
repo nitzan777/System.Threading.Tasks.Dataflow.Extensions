@@ -1,8 +1,7 @@
 ﻿using System.Threading.Tasks.Dataflow;
-using OrderedActionBlock;
-using OrderedActionBlock.Interfaces;
+using Nitzan777.System.Threading.Tasks.Dataflow.Extensions.OrderedActionBlock.Interfaces;
 
-namespace System.Threading.Tasks.Dataflow.Extensions.OrderedActionBlock
+namespace Nitzan777.System.Threading.Tasks.Dataflow.Extensions.OrderedActionBlock
 {
     public class OrderedActionBlock<TInput> : IOrderedActionBlock<TInput> where TInput : IHasUniqueId
     {

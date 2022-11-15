@@ -1,4 +1,4 @@
-﻿namespace OrderedActionBlock.Interfaces
+﻿namespace Nitzan777.System.Threading.Tasks.Dataflow.Extensions.OrderedActionBlock.Interfaces
 {
     public interface IProcessingStateManager<TInput> where TInput : IHasUniqueId
     {
