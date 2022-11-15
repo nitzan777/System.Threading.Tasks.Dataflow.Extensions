@@ -10,7 +10,8 @@
 	<Company>T</Company>
 	<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
 	<PackageLicenseExpression>MIT</PackageLicenseExpression>
-	<ProjectURL>https://github.com/nitzan777/System.Threading.Tasks.Dataflow.Extensions</ProjectURL>
+	<RepositoryUrl>https://github.com/nitzan777/System.Threading.Tasks.Dataflow.Extensions.git</RepositoryUrl> 
+	<RepositoryType>git</RepositoryType> 
   </PropertyGroup>
 
 </Project>
